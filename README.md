@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addico786" alt="addico786" /></a> </p>
 
-- 🔭 I’m currently working on **Docker containers**
+- 🔭 I’m currently working on **ansible**
 
-- 🌱 I’m currently learning **Shell Scripting**
+- 🌱 I’m currently learning **terraform**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
