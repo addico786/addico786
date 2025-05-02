@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addico786" alt="addico786" /></a> </p>
 
-- 🔭 I’m currently working on **ansible**
+- 🔭 I’m currently working on **Ansible**
 
-- 🌱 I’m currently learning **terraform**
+- 🌱 I’m currently learning **Terraform**
 
-- 👯 I’m looking to collaborate on **cloud native projects**
+- 👯 I’m looking to collaborate on **Cloud native projects**
 
 - 🤝 I’m looking for help with **Devops**
 
