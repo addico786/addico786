@@ -1,50 +1,80 @@
-<img src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c91316391381cefc5e0c9b309a75fba/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d686561646572" width="100%" />
+<h1 align="center">Hi 👋, I'm Adnan Khan</h1>
+<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast 🌩️</h3>
 
-<img src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="300px" />
-
-## 👋 Hey there! I'm Adnan Khan
-
-🎓 I'm currently pursuing a degree in tech and exploring my passion for **DevOps**, **Cloud Computing**, and **automation**.<br>
-🔧 Always experimenting, learning, and optimizing systems for reliability, speed, and scale.
-
-I enjoy building real-world automation solutions and using DevOps practices to bridge the gap between development and operations. I'm also exploring **Orna**, and enjoy understanding how it intersects with infrastructure and gaming tech. 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=addico786&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🧠 Tech I'm Working With:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-</div>
+🔭 I’m currently working on **Ansible**  
+🌱 I’m currently learning **Terraform**  
+👯 I’m looking to collaborate on **Cloud-native projects**  
+🤝 I’m looking for help with **DevOps tools and best practices**  
+💬 Ask me about **Linux, CI/CD, Docker, or Infrastructure as Code**  
+📫 Reach me at **adnandelhi2004@gmail.com**
 
 ---
 
-## 📫 Let's Connect
-
-<a href="mailto:adnandelhi2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>
-<a href="https://www.linkedin.com/in/adnan-khan-b86094268/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>
-<a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="width:100%; max-height:400px; margin:auto;" />
-
----
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=AdnanGitUserName&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdnanGitUserName&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanGitUserName&theme=dark&hide_border=false&layout=compact)
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/adnan-khan-afridi-46595129a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/adnan_khan_afridi4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/938715066151346196" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Kurunin4-5865F2?logo=discord" alt="Discord"/>
+  </a>
+</p>
 
 ---
 
-> ⚙️ “Automate the boring stuff, optimize the important stuff.” – Adnan
+## 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+</p>
+
+---
+
+## 📈 My GitHub Stats
+
+<details>
+  <summary>💻 Click to expand GitHub Stats (via GitHub Actions, not Vercel)</summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=addico786&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <br />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=addico786&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=addico786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+</details>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=addico786&theme=monokai&column=7&margin-w=10&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+- I love automating repetitive tasks using Bash & Python  
+- A huge fan of open-source projects and collaborative learning!
+
+---
 
