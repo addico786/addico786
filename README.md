@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Khan</h1>
-<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast 🌩️</h3>
+<h3 align="center"> Aspiring DevOps Engineer | Cloud & Automation Enthusiast 🌩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addico786&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
@@ -71,7 +71,7 @@
 
 ---
 
-## ⚡ Fun Fact
+##  Fact
 
 - I love automating repetitive tasks using Bash & Python  
 - A huge fan of open-source projects and collaborative learning!
