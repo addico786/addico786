@@ -7,8 +7,8 @@
 
 ---
 
-🔭 I’m currently working on **Ansible**  
-🌱 I’m currently learning **Terraform**  
+🔭 I’m currently working on **Terraform**  
+🌱 I’m currently learning **Jenkins**  
 👯 I’m looking to collaborate on **Cloud-native projects**  
 🤝 I’m looking for help with **DevOps tools and best practices**  
 💬 Ask me about **Linux, CI/CD, Docker, or Infrastructure as Code**  
